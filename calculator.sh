@@ -6,3 +6,5 @@ y=c+d
 z=a+b
 
 #division
+
+#Multiplication
